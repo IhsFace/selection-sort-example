@@ -1,0 +1,16 @@
+C:\Users\ihsaa\Projects\selection-sort-example\Selection Sort Example\Selection Sort Example\bin\Debug\net8.0-windows\Selection Sort Example.exe
+C:\Users\ihsaa\Projects\selection-sort-example\Selection Sort Example\Selection Sort Example\bin\Debug\net8.0-windows\Selection Sort Example.deps.json
+C:\Users\ihsaa\Projects\selection-sort-example\Selection Sort Example\Selection Sort Example\bin\Debug\net8.0-windows\Selection Sort Example.runtimeconfig.json
+C:\Users\ihsaa\Projects\selection-sort-example\Selection Sort Example\Selection Sort Example\bin\Debug\net8.0-windows\Selection Sort Example.dll
+C:\Users\ihsaa\Projects\selection-sort-example\Selection Sort Example\Selection Sort Example\bin\Debug\net8.0-windows\Selection Sort Example.pdb
+C:\Users\ihsaa\Projects\selection-sort-example\Selection Sort Example\Selection Sort Example\obj\Debug\net8.0-windows\Selection_Sort_Example.Form1.resources
+C:\Users\ihsaa\Projects\selection-sort-example\Selection Sort Example\Selection Sort Example\obj\Debug\net8.0-windows\Selection Sort Example.vbproj.GenerateResource.cache
+C:\Users\ihsaa\Projects\selection-sort-example\Selection Sort Example\Selection Sort Example\obj\Debug\net8.0-windows\Selection Sort Example.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ihsaa\Projects\selection-sort-example\Selection Sort Example\Selection Sort Example\obj\Debug\net8.0-windows\Selection Sort Example.AssemblyInfoInputs.cache
+C:\Users\ihsaa\Projects\selection-sort-example\Selection Sort Example\Selection Sort Example\obj\Debug\net8.0-windows\Selection Sort Example.AssemblyInfo.vb
+C:\Users\ihsaa\Projects\selection-sort-example\Selection Sort Example\Selection Sort Example\obj\Debug\net8.0-windows\Selection Sort Example.vbproj.CoreCompileInputs.cache
+C:\Users\ihsaa\Projects\selection-sort-example\Selection Sort Example\Selection Sort Example\obj\Debug\net8.0-windows\Selection Sort Example.dll
+C:\Users\ihsaa\Projects\selection-sort-example\Selection Sort Example\Selection Sort Example\obj\Debug\net8.0-windows\refint\Selection Sort Example.dll
+C:\Users\ihsaa\Projects\selection-sort-example\Selection Sort Example\Selection Sort Example\obj\Debug\net8.0-windows\Selection Sort Example.pdb
+C:\Users\ihsaa\Projects\selection-sort-example\Selection Sort Example\Selection Sort Example\obj\Debug\net8.0-windows\Selection Sort Example.genruntimeconfig.cache
+C:\Users\ihsaa\Projects\selection-sort-example\Selection Sort Example\Selection Sort Example\obj\Debug\net8.0-windows\ref\Selection Sort Example.dll
